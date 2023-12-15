@@ -110,7 +110,7 @@ export default () => {
         onColumnsStateChange={(map) => setColumnsStateMap(map)}
         search={false}
         dateFormatter="string"
-        headerTitle="受控模式"
+        headerTitle="受控ddddddd模式"
         toolBarRender={() => [<Input.Search placeholder="请输入" />]}
       />
     </>
